@@ -4,19 +4,19 @@ The purpose of this analysis is focused on student standardized test scores to d
 
 ### How is the district summary affected?
 
--The district summary understandably shows a drop, though it’s fairly minimal with such a small population of 461 students removed from what started as a total student body of 39,170.   We see between a one and two point drop in looking at passing percentages, although the average math and reading scores stay fairly consistent.
+The district summary understandably shows a drop, though it’s fairly minimal with such a small population of 461 students removed from what started as a total student body of 39,170.   We see between a one and two point drop in looking at passing percentages, although the average math and reading scores stay fairly consistent.
 
 ![District Summary](https://user-images.githubusercontent.com/107294123/178667785-8806f9ae-1e3c-4cb6-9af5-c75908ede661.png)
 
 ### How is the school summary affected?
 
--As expected, the breakdown by school has no effect on the other fourteen schools and only Thomas High School (THS) sees a dramatic drop in passing scores. With 28% of the local school population unaccounted for in the results, this is where we’ll see the biggest change in numbers.
+As expected, the breakdown by school has no effect on the other fourteen schools and only Thomas High School (THS) sees a dramatic drop in passing scores. With 28% of the local school population unaccounted for in the results, this is where we’ll see the biggest change in numbers.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
--After removing 461 students from the data due to concerns of cheating in the 9th grade class at THS, the total population changed from 39,170 to 38,709 students with regards to testing results, though funding didn’t change, as those students were still allocated funding for the school year.  This changed the overall passing scores to go from 75% to 73.9% in math and from 85.9% to 84.7% in reading, for an overall passing percentage to fall over a full percentage point, down from 65.2% to 64.1%.
+After removing 461 students from the data due to concerns of cheating in the 9th grade class at THS, the total population changed from 39,170 to 38,709 students with regards to testing results, though funding didn’t change, as those students were still allocated funding for the school year.  This changed the overall passing scores to go from 75% to 73.9% in math and from 85.9% to 84.7% in reading, for an overall passing percentage to fall over a full percentage point, down from 65.2% to 64.1%.
 
--At a local level, the effects of removing the 9th grade class entirely from THS’s testing results, the overall passing received far more detrimental results, going from 90.9% of the school receiving passing remarks, down to 65.1%
+At a local level, the effects of removing the 9th grade class entirely from THS’s testing results, the overall passing received far more detrimental results, going from 90.9% of the school receiving passing remarks, down to 65.1%
 
 ![School_Summary](https://user-images.githubusercontent.com/107294123/178667968-43f16cf5-d88c-4295-92d3-ce6e7b1c4b5a.png)
 ![School_Summary_Minus_Thomas_9th_Grade_Class](https://user-images.githubusercontent.com/107294123/178667978-9f730318-cc45-48c6-a845-54f7fe15d0a7.png)
